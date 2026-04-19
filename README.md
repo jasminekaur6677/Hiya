@@ -73,8 +73,9 @@ AVAILABILITY OF APPLE INTELLIGENCE
 
 • Screenshots For Reference :
 
-<div align="center">
+<div align="center" spacing="10%" >
   <img src="./Readme_Assets/error_msg.png" width="30%" alt="Error Msg">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="./Readme_Assets/mac_settings.png" width="30%" alt="Mac Settings">
 </div>
 
