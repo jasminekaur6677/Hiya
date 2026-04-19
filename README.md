@@ -6,7 +6,9 @@ device AI to respond to a predefined prompt. Foundation Models Framework is used
 
 APP PREVIEW :
 
-![App Preview](./Readme_Assets/HiyaAI_demo.gif)
+<div align="center">
+  <img src="./Readme_Assets/HiyaAI_demo.gif" height= "300" width="40%" alt="HiyaAI App Preview">
+</div>
 
 ## 🛠 Technical Stack & Architecture
 
