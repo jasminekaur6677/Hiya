@@ -3,7 +3,7 @@
 
 This is a simple **SwiftUI** app utilising Apple's on device **Apple Intelligence** to respond to a predefined prompt. Out of Apple's in-built AI support frameworks - **Foundation model** and **CoreML**, I've used Foundation Models for this app.
 
-APP PREVIEW :
+**APP PREVIEW :**
 
 <div align="center">
   <img src="./Readme_Assets/HiyaAI_demo.gif" width="30%" alt="HiyaAI App Preview">
@@ -58,11 +58,11 @@ It's like API implementation where we send prompt to model, show progress view u
 
 • Send response to session
 
-• Hnadle response
+• Handle response
 
 ## ⚠️ Points To Note 
 
-AVAILABILITY OF APPLE INTELLIGENCE
+**AVAILABILITY OF APPLE INTELLIGENCE**
 
 • iPhone: Device must support Apple Intelligence - AI is available from iPhone 15 Pro onward models only
 
