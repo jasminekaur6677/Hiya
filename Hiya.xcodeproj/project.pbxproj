@@ -7,10 +7,12 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4AB85E1A2F934D7A00F39C0A /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 4AB85E192F934D7A00F39C0A /* README.md */; };
 		4AC24D3A2F80BEB8005DD703 /* AppIcon.icon in Resources */ = {isa = PBXBuildFile; fileRef = 4AC24D392F80BEB8005DD703 /* AppIcon.icon */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4AB85E192F934D7A00F39C0A /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		4AC24D392F80BEB8005DD703 /* AppIcon.icon */ = {isa = PBXFileReference; lastKnownFileType = folder.iconcomposer.icon; path = AppIcon.icon; sourceTree = "<group>"; };
 		4AC27C502F7B7F4300F50799 /* Hiya.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Hiya.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -50,6 +52,7 @@
 		4AC27C472F7B7F4300F50799 = {
 			isa = PBXGroup;
 			children = (
+				4AB85E192F934D7A00F39C0A /* README.md */,
 				4AC27C522F7B7F4300F50799 /* Hiya */,
 				4AC24D392F80BEB8005DD703 /* AppIcon.icon */,
 				4AC27C512F7B7F4300F50799 /* Products */,
@@ -128,6 +131,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4AB85E1A2F934D7A00F39C0A /* README.md in Resources */,
 				4AC24D3A2F80BEB8005DD703 /* AppIcon.icon in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
