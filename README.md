@@ -1,8 +1,7 @@
 
 # HiyaAI App
 
-This is a simple SwiftUI app utilising Apple's on
-device AI to respond to a predefined prompt. Foundation Models Framework is used in this app.
+This is a simple **SwiftUI** app utilising Apple's on device **Apple Intelligence** to respond to a predefined prompt. Out of Apple's in-built AI support frameworks - **Foundation model** and **CoreML**, I've used Foundation Models for this app.
 
 APP PREVIEW :
 
@@ -14,7 +13,7 @@ APP PREVIEW :
 
 • Xcode version : 26.4
 
-• Language : Swift 5
+• Language : Swift 6
 
 • Framework: Foundations Model
 
@@ -65,7 +64,9 @@ It's like API implementation where we send prompt to model, show progress view u
 
 AVAILABILITY OF APPLE INTELLIGENCE
 
-• Device must support Apple Intelligence - AI is available from iPhone 15 onward models only
+• iPhone: Device must support Apple Intelligence - AI is available from iPhone 15 Pro onward models only
+
+• iPad/Mac: Any device with an M1 chip or later
 
 • The device must have Apple Intelligence turned on in settings
 
@@ -74,8 +75,8 @@ AVAILABILITY OF APPLE INTELLIGENCE
 • Screenshots For Reference :
 
 <div align="center" spacing="10%" >
-  <img src="./Readme_Assets/error_msg.png" width="20%" alt="Error Msg">
+  <img src="./Readme_Assets/error_msg.png" width="20%" alt="App error message indicating Apple Intelligence is not yet downloaded">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./Readme_Assets/mac_settings.png" width="30%" alt="Mac Settings">
+  <img src="./Readme_Assets/mac_settings.png" width="30%" alt="Screenshot of macOS Settings showing Apple Intelligence enabled">
 </div>
 
