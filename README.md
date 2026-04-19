@@ -6,7 +6,7 @@ device AI to respond to a predefined prompt. Foundation Models Framework is used
 
 APP PREVIEW :
 
-![App Preview](./Readme_Assets/HiyaAi_demo.gif)
+![App Preview](./Readme_Assets/HiyaAI_demo.gif)
 
 ## 🛠 Technical Stack & Architecture
 
