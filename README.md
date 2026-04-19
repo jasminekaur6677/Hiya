@@ -73,7 +73,8 @@ AVAILABILITY OF APPLE INTELLIGENCE
 
 • Screenshots For Reference :
 
-https://github.com/user-attachments/assets/042b0c13-6eb4-4b83-bf91-75aadd78136a
-
-https://github.com/user-attachments/assets/738bfa86-40ae-4ef9-831d-ab6e618fbcb6
+<div align="center">
+  <img src="./Readme_Assets/error_msg.png" width="30%" alt="Error Msg">
+  <img src="./Readme_Assets/mac_settings.png" width="30%" alt="Mac Settings">
+</div>
 
